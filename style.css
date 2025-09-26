@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(41, 190, 216);
+}
+
+header {
+    display: flex; 
+    justify-content:left;
+
+    padding: 1rem 2rem;
+
+    background-color: rgb(30, 117, 151);
+}
+
+nav {
+       display: flex; 
+       justify-content: space-evenly;
+       flex-direction: row;
+    justify-content:center
+}
