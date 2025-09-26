@@ -5,8 +5,8 @@ body {
 }
 
 header {
-    display: flex; 
-    justify-content:left;
+    display: flex;
+    justify-content: left;
 
     padding: 1rem 2rem;
 
@@ -14,8 +14,16 @@ header {
 }
 
 nav {
-       display: flex; 
-       justify-content: space-evenly;
-       flex-direction: row;
-    justify-content:center
+    display: flex;
+
+    flex-direction: row;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin: 15px;
 }
